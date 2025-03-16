@@ -1,5 +1,16 @@
-## Hi there 👋
+# Global Getaway Trips – Profesyonel Seyahat Planlama  
 
+Global Getaway Trips, dünya çapında seyahat ve tur organizasyonları sunan lider bir şirkettir.  
+
+## 🚀 Özellikler  
+- 🌍 Kültürel ve tarihi turlar  
+- 🕋 Umre ve Hac organizasyonları  
+- ✈️ Uçak bileti, otel ve vize hizmetleri  
+- 📌 Kapsamlı müşteri yönetim çözümleri  
+
+**🔗 Daha Fazla Bilgi İçin:**  
+🌐 [Resmi Web Sitemiz](https://globalgetawaytrips.com)  
+📧 [E-posta ile İletişim](mailto:info@globalgetawaytrips.com)  
 <!--
 **globalgetawaytrips/globalgetawaytrips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
